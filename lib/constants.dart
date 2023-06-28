@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const kprimeColor = Color(0xffFFF5ED);
+const ksecondColor = Color(0xffF4ECEC);
+const kbtnColor = Color(0xff924646);
+const textfieldBorderColor = Color(0xffF2E8E8);
+const textfieldHintColor = Color(0xff999999);
+const primeTxtColor = Color(0xff4D4D4D);
+const balanceShapeColor = Color(0xffC2F4FF);
+const balancetxtColor = Color(0xff313E4B);
+const incomeShapeColor = Color(0xffF5F5F5);
+const topUpShapeColor = Color(0xffC2E9FF);
+const topUpTxtColor = Color(0xffC2E9FF);
+const salesShapeColor = Color(0xffD6FFC2);
+const salesTxtColor = Color(0xff60766F);
+const sarafiTxtColor = Color(0xff6D7682);
+const todayBtnShapeColor = Color(0xffE6DBDB);
+const salamborderColor = Color(0xff43728D);
+const salamShapeColor = Color(0xffE9F0F5);
+const roshanShapeColor = Color(0xffF7E8EE);
+const etsalatShapeColor = Color(0xffE9F0DE);
+const iconShapeColor = Color(0xffE6F5FF);
+const lasticonColor = Color(0xff597393);
+const etsalatBorderColor = Color(0xff709C5A);
+const afghanbisimBorderColor = Color(0xff3A8899);
